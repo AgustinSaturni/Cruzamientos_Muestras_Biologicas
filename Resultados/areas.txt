@@ -1,0 +1,6 @@
+{
+    "area_rojo_en_verde": 9529.5,
+    "area_rojo_en_verde_en_azul": 46706.0,
+    "area_verde_en_azul": 59709.0,
+    "area_rojo_en_azul": 231489.0
+}
